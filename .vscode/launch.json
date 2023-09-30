@@ -4,7 +4,20 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "meu-primeiro-projeto-java_770ce8bf"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "meu-primeiro-projeto-java_770ce8bf"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -34,7 +47,7 @@
                 "Hugo",
                 "28",
                 "1,70"
-                        ]
+            ]
         }
     ]
 }
