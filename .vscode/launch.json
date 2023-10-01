@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "meu-primeiro-projeto-java_770ce8bf"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "meu-primeiro-projeto-java_770ce8bf"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "meu-primeiro-projeto-java_770ce8bf"
+        },
+        {
+            "type": "java",
+            "name": "RepeticaoForArrays",
+            "request": "launch",
+            "mainClass": "RepeticaoForArrays",
+            "projectName": "meu-primeiro-projeto-java_770ce8bf"
+        },
+        {
+            "type": "java",
+            "name": "Repeticao",
+            "request": "launch",
+            "mainClass": "Repeticao",
+            "projectName": "meu-primeiro-projeto-java_770ce8bf"
+        },
+        {
+            "type": "java",
             "name": "ExemploExcecao",
             "request": "launch",
             "mainClass": "ExemploExcecao",
