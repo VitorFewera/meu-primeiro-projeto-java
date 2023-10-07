@@ -9,4 +9,4 @@ public class Escola {
 
         System.out.println("O aluno " + felipe.getNome() + " tem " + felipe.getIdade() + " anos ");
     }
-    }
+}

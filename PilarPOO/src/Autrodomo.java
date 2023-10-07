@@ -6,8 +6,8 @@ public class Autrodomo {
     public static void main(String[] args) throws Exception {
         Carro jeep = new Carro();
         jeep.ligar();
-    // Encapsulamento = Usar o private, para esconder algumas ações,
-    // que nao são importantes ficarem visiveis a todo o projeto
+        // Encapsulamento = Usar o private, para esconder algumas ações,
+        // que nao são importantes ficarem visiveis a todo o projeto
 
         //herança
         jeep.setChassi("1233");

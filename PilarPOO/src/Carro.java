@@ -3,9 +3,7 @@ package PilarPOO.src;
 public class Carro extends Veiculo {
 
 
-
-
-    public  void ligar() {
+    public void ligar() {
         ConfereCombustivel();
         ConfereCambio();
         System.out.println("Carro ligado!");

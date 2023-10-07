@@ -1,6 +1,6 @@
 package PilarPOO.src;
 
-public class Moto extends Veiculo{
+public class Moto extends Veiculo {
     private void ConfereCombustivel() {
         System.out.println("Conferindo Combustivel!");
     }

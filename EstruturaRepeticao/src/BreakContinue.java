@@ -8,7 +8,7 @@ public class BreakContinue {
             //Nesse exemplo, o break interrompe o loop no numero informado;
         }
 
-         for (int numero = 1; numero <= 5; numero++) {
+        for (int numero = 1; numero <= 5; numero++) {
             if (numero == 3) {
                 continue;
             }

@@ -11,7 +11,7 @@ public class Almoxarife {
 
     void entregarIngredientes() {
         System.out.println("ENTREGANDO INGREDIENTES");
-       controlarSaida();
+        controlarSaida();
     }
 
     void trocarGas() {
