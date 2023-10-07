@@ -6,9 +6,10 @@ public class Pessoa implements Comparable<Pessoa> {
     private double altura;
 
 
-    @Override
+    @Override//.compare faz a comparação de dois inteiros
     public int compareTo(Pessoa p) {
         return Integer.compare(idade, p.getIdade());
+        //aqui ele compra a idade que é informado com a idade do objeto p.getIdade
     }
 
     public Pessoa(String nome, int idade, double altura) {
